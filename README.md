@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Info](https://imgur.com/a/uKsw0la) 
+![Info](https://i.imgur.com/xUvRkrp.png) 
 ### About Me
 
 I'm Mono Sudji, a dedicated software developer with a passion for creating robust and efficient applications. My expertise spans across various Java frameworks and tools, enabling me to build and maintain high-quality software solutions.
