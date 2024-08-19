@@ -59,5 +59,5 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
 
 ### Social Links
 
-- [Telegram](https://t.me/MonoBehaivor)
+- [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2oZ-V6_RYI2c8RmJBx0SRvM2msYzNCxZyZUCbR8&usqp=CAE&s](https://t.me/MonoBehaivor)
 - [GitHub](https://github.com/MonoSudji)
