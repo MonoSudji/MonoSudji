@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Info](https://i.imgur.com/xUvRkrp.png) 
-
+###Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=MonoSudji)](https://github.com/ryo-ma/github-profile-trophy)
 ### About Me
 
 I'm Mono Sudji, a dedicated software developer with a passion for creating robust and efficient applications. My expertise spans across various Java frameworks and tools, enabling me to build and maintain high-quality software solutions.
