@@ -17,14 +17,15 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
   - Achieved significant automation in task management, improving efficiency and reducing manual workload.
   - Completed approximately 10 projects on Upwork, focusing on the Spring framework. Projects included e-commerce platforms, RESTful APIs, and various web applications, demonstrating expertise in Spring Boot, Spring Security, and Hibernate.
 
+
 ### Fundamental Skills
 
-- **Operating Systems:** Proficient in Linux ![Linux](https://img.icons8.com/color/48/000000/linux.png)
-- **Version Control:** Proficient in Git ![Git](https://img.icons8.com/color/48/000000/git.png)
-- **Networking:** Knowledge of TCP/IP, HTTP ![Networking](https://img.icons8.com/color/48/000000/network.png)
-- **Algorithms and Data Structures** ![Algorithms](https://img.icons8.com/color/48/000000/algorithm.png)
-- **Mathematical Background** ![Math](https://img.icons8.com/color/48/000000/mathematics.png)
-- **Databases:** SQL ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+- **Operating Systems:** Proficient in Linux
+- **Version Control:** Proficient in Git
+- **Networking:** Knowledge of TCP/IP, HTTP
+- **Algorithms and Data Structures**
+- **Mathematical Background**
+- **Databases:** SQL 
 
 ### Applied Skills
 
