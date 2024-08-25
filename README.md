@@ -35,7 +35,7 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
   - Python (Basic scripts)
 - **Frameworks:**
   - Spring
-  - Spring Security
+  - Spring Security , Data , MVC
   - JavaFX
 - **Libraries:** 
   - Hibernate
