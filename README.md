@@ -19,8 +19,7 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
 
 
 ### Skills
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
+[![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg)]
 
 ### Current Projects
 
