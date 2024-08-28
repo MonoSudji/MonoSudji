@@ -18,33 +18,9 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
   - Completed approximately 10 projects on Upwork, focusing on the Spring framework. Projects included e-commerce platforms, RESTful APIs, and various web applications, demonstrating expertise in Spring Boot, Spring Security, and Hibernate.
 
 
-### Fundamental Skills
+### Skills
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
-- **Operating Systems:** Proficient in Linux
-- **Version Control:** Proficient in Git
-- **Networking:** Knowledge of TCP/IP, HTTP
-- **Algorithms and Data Structures**
-- **Mathematical Background**
-- **Databases:** SQL 
-
-### Applied Skills
-
-- **Automated Testing:** Skilled in creating automated test suites
-- **Languages:** 
-  - Java (Expert)
-  - Python (Basic scripts)
-- **Frameworks:**
-  - Spring
-  - Spring Security , Data , MVC
-  - JavaFX
-- **Libraries:** 
-  - Hibernate
-  - JDBC
-- **Build Tools:** 
-  - Gradle
-  - Maven
-- **Testing Frameworks:** 
-  - JUnit
 
 ### Current Projects
 
