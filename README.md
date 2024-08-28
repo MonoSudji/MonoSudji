@@ -10,9 +10,6 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
 - **Courses:** Participated in various online courses and workshops on platforms like Coursera, Udemy, etc.
 - **Books:** Follow a curated list of recommended books for developers.
 
-## Work Experience  
-####3 months####
-
 ## Skills
 
 #### Operating Systems
