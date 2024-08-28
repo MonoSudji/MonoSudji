@@ -1,16 +1,16 @@
 ## Hi there 👋
 ![Info](https://i.imgur.com/xUvRkrp.png) 
 
-### About Me
+## About Me
 
 I'm Mono Sudji, a dedicated software developer with a passion for creating robust and efficient applications. My expertise spans across various Java frameworks and tools, enabling me to build and maintain high-quality software solutions.
 
-### Additional Education
+## Additional Education
 
 - **Courses:** Participated in various online courses and workshops on platforms like Coursera, Udemy, etc.
 - **Books:** Follow a curated list of recommended books for developers.
 
-### Work Experience
+## Work Experience
 
 - **Walto:** 
   - Developed and maintained various Minecraft plugins using Spigot, significantly enhancing gameplay experiences.
@@ -69,12 +69,15 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
 
 ### Current Projects
 
-- **Minecraft Plugin Development:** Working on a plugin for Minecraft using LibsDisguises and ProtocolLib.
-- **Integration with MMOItems:** Developing a plugin to introduce various blood bottles with different refill percentages and crafting recipes.
+- **Minecraft Plugin Development:**
+-  Working on a plugin for Minecraft using LibsDisguises and ProtocolLib.
+- **Integration with MMOItems:**
+- Developing a plugin to introduce various blood bottles with different refill percentages and crafting recipes.
 - **Spring Projects:** 
-  - **E-commerce Platform:** Developed an e-commerce platform using Spring Boot, Spring Security, and Hibernate. Implemented features such as user authentication, product management, and order processing.
-  - **Blog Application:** Created a multi-user blog application with Spring Boot and Thymeleaf. Enabled functionalities like user registration, post creation, and comment management.
-  - **Rest API:** Designed and implemented RESTful APIs using Spring Boot for various applications, ensuring secure and efficient data exchange.
+  - ****E-commerce Platform:****
+  -  Developed an e-commerce platform using Spring Boot, Spring Security, and Hibernate. Implemented features such as user authentication, product management, and order processing.
+  - ****Blog Application:**** Created a multi-user blog application with Spring Boot and Thymeleaf. Enabled functionalities like user registration, post creation, and comment management.
+  - ****Rest API:**** Designed and implemented RESTful APIs using Spring Boot for various applications, ensuring secure and efficient data exchange.
 
 ### Social Links
 
