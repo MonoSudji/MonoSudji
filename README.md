@@ -18,8 +18,54 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
   - Completed approximately 10 projects on Upwork, focusing on the Spring framework. Projects included e-commerce platforms, RESTful APIs, and various web applications, demonstrating expertise in Spring Boot, Spring Security, and Hibernate.
 
 
-### Skills
-[![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg)]
+## Skills
+
+#### Operating Systems
+![Linux](https://img.shields.io/badge/OS-Linux-0E76A8?style=flat&logo=linux&logoColor=white)
+
+#### Version Control
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### Networking
+![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP-0082FC?style=flat&logo=internet-explorer&logoColor=white)
+![HTTP](https://img.shields.io/badge/Networking-HTTP-0082FC?style=flat&logo=internet-explorer&logoColor=white)
+
+#### Algorithms and Data Structures
+![Algorithms](https://img.shields.io/badge/Algorithms-Data%20Structures-0A6BC4?style=flat)
+
+#### Mathematical Background
+![Mathematics](https://img.shields.io/badge/Mathematics-Background-4D4D4D?style=flat&logo=math&logoColor=white)
+
+#### Databases
+![SQL](https://img.shields.io/badge/Database-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### Applied Skills
+
+#### Automated Testing
+![Automated Testing](https://img.shields.io/badge/Testing-Automated%20Testing-004B49?style=flat)
+
+#### Languages
+![Java](https://img.shields.io/badge/Language-Java-E34F26?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### Frameworks
+![Spring](https://img.shields.io/badge/Framework-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Framework-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Framework-Spring%20Data-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Framework-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+![JavaFX](https://img.shields.io/badge/Framework-JavaFX-007396?style=flat&logo=java&logoColor=white)
+
+#### Libraries
+![Hibernate](https://img.shields.io/badge/Library-Hibernate-3C0A4B?style=flat&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/Library-JDBC-F4B400?style=flat&logo=java&logoColor=white)
+
+#### Build Tools
+![Gradle](https://img.shields.io/badge/Build%20Tool-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Build%20Tool-Maven-C71A36?style=flat&logo=maven&logoColor=white)
+
+#### Testing Frameworks
+![JUnit](https://img.shields.io/badge/Testing%20Framework-JUnit-25A162?style=flat&logo=junit&logoColor=white)
+
 
 ### Current Projects
 
