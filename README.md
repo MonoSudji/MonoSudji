@@ -15,7 +15,7 @@ I'm Mono Sudji, a dedicated software developer with a passion for creating robus
 - **Walto:** 
   - Developed and maintained various Minecraft plugins using Spigot, significantly enhancing gameplay experiences.
   - Achieved significant automation in task management, improving efficiency and reducing manual workload.
-  - Completed approximately 10 projects on Upwork, focusing on the Spring framework. Projects included e-commerce platforms, RESTful APIs, and various web applications, demonstrating expertise in Spring Boot, Spring Security, and Hibernate.
+
 
 
 ## Skills
