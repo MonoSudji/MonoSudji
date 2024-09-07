@@ -1,27 +1,20 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Моно Суджи" title="👋 Hi there! I'm Моно Суджи"/>
-<div align="justify">
+# Привет! 👋
 
+<img src="https://lumen5.com/user/monosudji/untitled-video-oqxot/" alt="👋 Hi there! I'm Моно Суджи" title="👋 Hi there! I'm Моно Суджи"/>
+<div align="justify">
 <a href="https://t.me/Springggggggggg">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/monosudji/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/monosudji">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-
 </div>
 <p></p>
 <p align="justify">
 Welcome to my GitHub Page! I'm Моно Суджи, a passionate software developer with extensive experience in creating reliable and efficient applications. I work with various Java frameworks and tools, and I'm currently involved in several projects, including Minecraft plugins and Spring-based applications. You can find more about my work and interests here.
 </p>
 
-## My Favorite Tools and Technologies ⚙️
+## Мои любимые инструменты и технологии ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Инструменты и технологии, с которыми я работал и интересуюсь
 
 <table>
   <tr>
@@ -113,16 +106,6 @@ Welcome to my GitHub Page! I'm Моно Суджи, a passionate software develo
 
 </details>
 
-<details>
-  <summary>Recent GitHub Activity ✅</summary>
-  <br/>
-  <img src="https://metrics.lecoq.io/monosudji?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran">
+---
 
-</details>
-
-<details>
-  <summary>Profile Trophy 🏆</summary>
-  <br/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=monosudji&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
+Если потребуется дополнительная помощь, дайте знать!
