@@ -1,7 +1,3 @@
-
-
----
-
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Моно Суджи" title="👋 Hi there! I'm Моно Суджи"/>
 <div align="justify">
 
@@ -56,11 +52,11 @@ Welcome to my GitHub Page! I'm Моно Суджи, a passionate software develo
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gradle-icon.svg" width="65" height="65" alt="Gradle" />
+        <img src="https://img.icons8.com/ios/50/000000/gradle.png" alt="Gradle" width="65" height="65" />
       <br>Gradle
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/maven-icon.svg" width="65" height="65" alt="Maven" />
+        <img src="https://img.icons8.com/ios/50/000000/maven.png" alt="Maven" width="65" height="65" />
       <br>Maven
     </td>
   </tr>
@@ -130,7 +126,3 @@ Welcome to my GitHub Page! I'm Моно Суджи, a passionate software develo
   [![trophy](https://github-profile-trophy.vercel.app/?username=monosudji&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
-
----
-
-Если у вас есть конкретные пожелания или дополнительные изменения, дайте знать!
