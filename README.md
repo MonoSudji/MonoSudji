@@ -1,6 +1,6 @@
 # Привет! 👋
 
-<img src="https://lumen5.com/user/monosudji/untitled-video-oqxot/" alt="👋 Hi there! I'm Моно Суджи" title="👋 Hi there! I'm Моно Суджи"/>
+<img src="https://github.com/MonoSudji/MonoSudji/blob/main/intro.gif" alt="👋 Hi there! I'm Моно Суджи" title="👋 Hi there! I'm Моно Суджи"/>
 <div align="justify">
 <a href="https://t.me/Springggggggggg">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
