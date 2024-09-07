@@ -108,4 +108,3 @@ Welcome to my GitHub Page! I'm Моно Суджи, a passionate software develo
 
 ---
 
-Если потребуется дополнительная помощь, дайте знать!
