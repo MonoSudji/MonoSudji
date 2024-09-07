@@ -1,76 +1,77 @@
-# Hi there 👋
-![Info](https://i.imgur.com/xUvRkrp.png) 
+# Привет! 👋
 
-## About Me
+![Информация](https://i.imgur.com/xUvRkrp.png)
 
-I'm Mono Sudji, a dedicated software developer with a passion for creating robust and efficient applications. My expertise spans across various Java frameworks and tools, enabling me to build and maintain high-quality software solutions.
+## Обо мне
 
-## Additional Education
+Я - Моно Суджи, увлеченный разработчик программного обеспечения с большим опытом создания надежных и эффективных приложений. Моя экспертиза охватывает различные Java-фреймворки и инструменты, что позволяет мне разрабатывать и поддерживать качественные программные решения. 🧑‍💻
 
-- **Courses:** Participated in various online courses and workshops on platforms like Coursera, Udemy, etc.
-- **Books:** Follow a curated list of recommended books for developers.
+## Дополнительное образование
 
-## Skills
+- **Курсы:** Участвовал в различных онлайн-курсах и семинарах на платформах, таких как Coursera, Udemy и других. 📚
+- **Книги:** Следую списку рекомендованных книг для разработчиков. 📖
 
-#### Operating Systems
-![Linux](https://img.shields.io/badge/OS-Linux-0E76A8?style=flat&logo=linux&logoColor=white)
+## Мои навыки 🚀
 
-#### Version Control
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat&logo=git&logoColor=white)
+#### Операционные системы
+![Linux](https://img.shields.io/badge/OS-Linux-0E76A8?style=flat&logo=linux&logoColor=white) 
 
-#### Networking
-![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP-0082FC?style=flat&logo=internet-explorer&logoColor=white)
-![HTTP](https://img.shields.io/badge/Networking-HTTP-0082FC?style=flat&logo=internet-explorer&logoColor=white)
+#### Системы контроля версий
+![Git](https://img.shields.io/badge/Контроль%20версий-Git-F05032?style=flat&logo=git&logoColor=white) 
 
-#### Algorithms and Data Structures
-![Algorithms](https://img.shields.io/badge/Algorithms-Data%20Structures-0A6BC4?style=flat)
+#### Сетевые технологии
+![TCP/IP](https://img.shields.io/badge/Сети-TCP%2FIP-0082FC?style=flat&logo=internet-explorer&logoColor=white) 
+![HTTP](https://img.shields.io/badge/Сети-HTTP-0082FC?style=flat&logo=internet-explorer&logoColor=white) 
 
-#### Mathematical Background
-![Mathematics](https://img.shields.io/badge/Mathematics-Background-4D4D4D?style=flat&logo=math&logoColor=white)
+#### Алгоритмы и структуры данных
+![Algorithms](https://img.shields.io/badge/Алгоритмы-и%20структуры%20данных-0A6BC4?style=flat) 
 
-#### Databases
-![SQL](https://img.shields.io/badge/Database-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+#### Математическая база
+![Mathematics](https://img.shields.io/badge/Математика-Фон-4D4D4D?style=flat&logo=math&logoColor=white) 
 
-### Applied Skills
+#### Базы данных
+![SQL](https://img.shields.io/badge/База%20данных-SQL-003B57?style=flat&logo=sqlite&logoColor=white) 
 
-#### Automated Testing
-![Automated Testing](https://img.shields.io/badge/Testing-Automated%20Testing-004B49?style=flat)
+### Применяемые навыки
 
-#### Languages
-![Java](https://img.shields.io/badge/Language-Java-E34F26?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
+#### Автоматизированное тестирование
+![Automated Testing](https://img.shields.io/badge/Тестирование-Автоматизированное%20тестирование-004B49?style=flat) 
 
-#### Frameworks
-![Spring](https://img.shields.io/badge/Framework-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Framework-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Framework-Spring%20Data-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Framework-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
-![JavaFX](https://img.shields.io/badge/Framework-JavaFX-007396?style=flat&logo=java&logoColor=white)
+#### Языки программирования
+![Java](https://img.shields.io/badge/Язык-Java-E34F26?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Язык-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
-#### Libraries
-![Hibernate](https://img.shields.io/badge/Library-Hibernate-3C0A4B?style=flat&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/Library-JDBC-F4B400?style=flat&logo=java&logoColor=white)
+#### Фреймворки
+![Spring](https://img.shields.io/badge/Фреймворк-Spring-6DB33F?style=flat&logo=spring&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Фреймворк-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white) 
+![Spring Data](https://img.shields.io/badge/Фреймворк-Spring%20Data-6DB33F?style=flat&logo=spring&logoColor=white) 
+![Spring MVC](https://img.shields.io/badge/Фреймворк-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/Фреймворк-JavaFX-007396?style=flat&logo=java&logoColor=white) 
 
-#### Build Tools
-![Gradle](https://img.shields.io/badge/Build%20Tool-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Build%20Tool-Maven-C71A36?style=flat&logo=maven&logoColor=white)
+#### Библиотеки
+![Hibernate](https://img.shields.io/badge/Библиотека-Hibernate-3C0A4B?style=flat&logo=hibernate&logoColor=white) 
+![JDBC](https://img.shields.io/badge/Библиотека-JDBC-F4B400?style=flat&logo=java&logoColor=white) 
 
-#### Testing Frameworks
-![JUnit](https://img.shields.io/badge/Testing%20Framework-JUnit-25A162?style=flat&logo=junit&logoColor=white)
+#### Инструменты сборки
+![Gradle](https://img.shields.io/badge/Инструмент%20сборки-Gradle-02303A?style=flat&logo=gradle&logoColor=white) 
+![Maven](https://img.shields.io/badge/Инструмент%20сборки-Maven-C71A36?style=flat&logo=maven&logoColor=white) 
 
+#### Фреймворки для тестирования
+![JUnit](https://img.shields.io/badge/Фреймворк%20для%20тестирования-JUnit-25A162?style=flat&logo=junit&logoColor=white) 
 
-### Current Projects
+### Текущие проекты
 
-- **Minecraft Plugin Development:**
--  Working on a plugin for Minecraft using LibsDisguises and ProtocolLib.
-- **Integration with MMOItems:**
-- Developing a plugin to introduce various blood bottles with different refill percentages and crafting recipes.
-- **Spring Projects:** 
-  - ****E-commerce Platform:****
-  -  Developed an e-commerce platform using Spring Boot, Spring Security, and Hibernate. Implemented features such as user authentication, product management, and order processing.
-  - ****Blog Application:**** Created a multi-user blog application with Spring Boot and Thymeleaf. Enabled functionalities like user registration, post creation, and comment management.
-  - ****Rest API:**** Designed and implemented RESTful APIs using Spring Boot for various applications, ensuring secure and efficient data exchange.
+- **Разработка плагина для Minecraft:**
+  - Работаю над плагином для Minecraft с использованием LibsDisguises и ProtocolLib. 🎮
+- **Интеграция с MMOItems:**
+  - Разрабатываю плагин для введения различных бутылочек с кровью, имеющих разные проценты заполнения и рецепты крафта. 🧪
+- **Проекты на Spring:**
+  - **E-commerce платформа:** Разработана платформа электронной коммерции с использованием Spring Boot, Spring Security и Hibernate. Реализованы функции аутентификации пользователей, управления продуктами и обработки заказов. 🛒
+  - **Блог-приложение:** Создано многофункциональное блог-приложение с использованием Spring Boot и Thymeleaf, позволяющее регистрироваться пользователям, создавать посты и управлять комментариями. ✍️
+  - **REST API:** Спроектированы и реализованы RESTful API для различных приложений, обеспечивая безопасный и эффективный обмен данными. 📡
 
-### Social Links
+### Социальные ссылки
 
-[![Telegram - не мой , просто связь](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Springggggggggg)
+[![Telegram - для связи](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Springggggggggg)
+
+🤝 Свяжитесь со мной через Telegram, если хотите узнать больше или обсудить сотрудничество!
