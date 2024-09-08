@@ -24,7 +24,7 @@ Welcome to my GitHub Page! I'm Моно Суджи, a passionate software develo
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.icons8.com/ios/50/000000/spring-logo.png" alt="Spring" width="65" height="65" />
+        <img src="https://avatars.mds.yandex.net/get-entity_search/2480722/885287529/S114x114FitScale_2x" alt="Spring" width="65" height="65" />
       </a>
       <br>Spring
     </td>
@@ -45,11 +45,11 @@ Welcome to my GitHub Page! I'm Моно Суджи, a passionate software develo
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/ios/50/000000/gradle.png" alt="Gradle" width="65" height="65" />
+        <img src="https://avatars.mds.yandex.net/get-entity_search/2480722/885287529/S114x114FitScale_2x" alt="Gradle" width="65" height="65" />
       <br>Gradle
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/ios/50/000000/apache-maven.png" alt="Maven" width="65" height="65" />
+        <img src="https://avatars.mds.yandex.net/get-entity_search/1966007/487666420/S114x114FitScale_2x" alt="Maven" width="65" height="65" />
       <br>Maven
     </td>
   </tr>
