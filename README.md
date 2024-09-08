@@ -24,7 +24,7 @@ Welcome to my GitHub Page! I'm Моно Суджи, a passionate software develo
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://avatars.mds.yandex.net/get-entity_search/2480722/885287529/S114x114FitScale_2x" alt="Spring" width="65" height="65" />
+        <img src="https://avatars.mds.yandex.net/get-entity_search/931219/343773061/S114x114FitScale_2x" alt="Spring" width="65" height="65" />
       </a>
       <br>Spring
     </td>
