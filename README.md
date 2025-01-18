@@ -105,5 +105,5 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=monosudji&label=PROFILE+VIEWS&style=for-the-badge&color=white">
+  <img src="https://komarev.com/ghpvc/?username=monosudji&label=PROFILE+VIEWS&style=for-the-badge">
 </details>
