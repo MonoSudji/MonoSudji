@@ -29,8 +29,12 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>Spring
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="65" height="65" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="65" height="65" />
+      <br>C++
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="65" height="65" />
@@ -44,14 +48,6 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" width="65" height="65" />
-      <br>Gradle
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" width="65" height="65" />
-      <br>Maven
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -63,20 +59,24 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="65" height="65" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" width="65" height="65" />
+      <br>Gradle
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="65" height="65" />
-      <br>HTML
+      <img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" width="65" height="65" />
+      <br>Maven
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="65" height="65" />
-      <br>CSS
+      <img src="https://avatars.mds.yandex.net/get-entity_search/1554108/436569955/S600xU_2x" alt="LWJGL" width="65" height="65" />
+      <br>LWJGL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javafx&theme=dark" alt="JavaFX" width="65" height="65" />
-      <br>JavaFX
+      <img src="https://avatars.mds.yandex.net/get-entity_search/1723287/487671689/S114x114FitScale_2x" alt="LibGDX" width="65" height="65" />
+      <br>LibGDX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="JNI/JNA" width="65" height="65" />
+      <br>JNI / JNA
     </td>
   </tr>
 </table>
