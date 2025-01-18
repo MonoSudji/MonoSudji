@@ -1,109 +1,109 @@
-# Привет! 👋
+# Hi there! 👋
 
-<img src="https://github.com/MonoSudji/MonoSudji/blob/main/intro.gif" alt="👋 Hi there! I'm Моно Суджи" title="👋 Hi there! I'm Моно Суджи"/>
-<div align="justify">
-<a href="https://t.me/Springggggggggg">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/MonoSudji/MonoSudji/blob/main/intro.gif" alt="👋 Hi there! I'm Mono Sudji" title="👋 Hi there! I'm Mono Sudji"/>
+
+<div align="center">
+  <a href="https://t.me/Springggggggggg">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </div>
-<p></p>
-<p align="justify">
-Welcome to my GitHub Page! I'm Моно Суджи, a passionate software developer with extensive experience in creating reliable and efficient applications. I work with various Java frameworks and tools, and I'm currently involved in several projects, including Minecraft plugins and Spring-based applications. You can find more about my work and interests here.
+
+<p align="center">
+Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer with extensive experience in creating reliable and efficient applications. I specialize in Java frameworks, tools, and I'm actively working on projects such as Minecraft plugins and Spring-based applications. Explore my work and interests here!
 </p>
 
-## Мои любимые инструменты и технологии ⚙️
+---
 
-> Инструменты и технологии, с которыми я работал и интересуюсь
+## My Favorite Tools and Technologies ⚙️
+
+> Tools and technologies I have experience with and enjoy using.
 
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://avatars.mds.yandex.net/get-entity_search/931219/343773061/S114x114FitScale_2x" alt="Spring" width="65" height="65" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="65" height="65" />
       <br>Spring
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://avatars.mds.yandex.net/get-entity_search/2480722/885287529/S114x114FitScale_2x" alt="Gradle" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" width="65" height="65" />
       <br>Gradle
     </td>
     <td align="center" width="96">
-        <img src="https://avatars.mds.yandex.net/get-entity_search/1966007/487666420/S114x114FitScale_2x" alt="Maven" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" width="65" height="65" />
       <br>Maven
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="65" height="65" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="65" height="65" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="65" height="65" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javafx" width="48" height="48" alt="JavaFX" />
+      <img src="https://skillicons.dev/icons?i=javafx&theme=dark" alt="JavaFX" width="65" height="65" />
       <br>JavaFX
     </td>
   </tr>
 </table>
+
+---
 
 ## GitHub Stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Моно Суджи's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=monosudji&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Моно Суджи's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monosudji&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
-  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Mono Sudji's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=monosudji&show_icons=true&count_private=true&theme=graywhite&hide_border=true" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Mono Sudji's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monosudji&langs_count=8&layout=compact&theme=graywhite&hide_border=true" height="192px"/>
+  </a>
 </details>
 
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monosudji&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monosudji&bg_color=ffffff&color=000000&line=696969&point=000000&area=true&hide_border=true" alt="Activity Graph">
 </details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=monosudji&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
+  <img src="https://komarev.com/ghpvc/?username=monosudji&label=PROFILE+VIEWS&style=for-the-badge&color=black">
 </details>
-
----
