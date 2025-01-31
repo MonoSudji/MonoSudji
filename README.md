@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>Cloud Services
     </td>
     <td align="center" width="96">
-      <img src="" alt="WebSocket" width="65" height="65" />
+      <img src="https://iconduck.com/icons/28131/websocket?shared" alt="WebSocket" width="65" height="65" />
       <br>WebSockets
     </td>
     <td align="center" width="96">
