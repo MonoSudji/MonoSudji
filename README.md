@@ -93,7 +93,6 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>Cloud Services
     </td>
     <td align="center" width="96">
-      <img src="https://iconduck.com/icons/28131/websocket?shared" alt="WebSocket" width="65" height="65" />
       <br>WebSockets
     </td>
     <td align="center" width="96">
@@ -101,7 +100,7 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jwt&theme=dark" alt="JWT" width="65" height="65" />
+      <img src="https://blog.devgenius.io/what-is-jwt-8968f3eb4752" alt="JWT" width="65" height="65" />
       <br>JWT
     </td>
     <td align="center" width="96">
@@ -135,7 +134,7 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>AOP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opentracing&theme=dark" alt="OpenTracing" width="65" height="65" />
+      <img src="data:image/png;base64,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" alt="OpenTracing" width="65" height="65" />
       <br>OpenTracing
     </td>
   </tr>
