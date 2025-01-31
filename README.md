@@ -93,6 +93,7 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>Cloud Services
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=websocket&theme=dark" alt="WebSocket" width="65" height="65" />
       <br>WebSockets
     </td>
     <td align="center" width="96">
@@ -100,7 +101,7 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>GraphQL
     </td>
     <td align="center" width="96">
- 
+      <img src="https://skillicons.dev/icons?i=jwt&theme=dark" alt="JWT" width="65" height="65" />
       <br>JWT
     </td>
     <td align="center" width="96">
@@ -134,7 +135,7 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>AOP
     </td>
     <td align="center" width="96">
-      
+      <img src="https://skillicons.dev/icons?i=opentracing&theme=dark" alt="OpenTracing" width="65" height="65" />
       <br>OpenTracing
     </td>
   </tr>
