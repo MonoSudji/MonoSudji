@@ -41,18 +41,26 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="65" height="65" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="65" height="65" />
-      <br>GitHub
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="65" height="65" />
+      <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="65" height="65" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="65" height="65" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" width="65" height="65" />
+      <br>Kafka
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="65" height="65" />
@@ -67,20 +75,71 @@ Welcome to my GitHub profile! I'm Mono Sudji, a passionate software developer wi
       <br>Maven
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.mds.yandex.net/get-entity_search/1554108/436569955/S600xU_2x" alt="LWJGL" width="65" height="65" />
-      <br>LWJGL
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="65" height="65" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="65" height="65" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.mds.yandex.net/get-entity_search/1723287/487671689/S114x114FitScale_2x" alt="LibGDX" width="65" height="65" />
-      <br>LibGDX
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" width="65" height="65" />
+      <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="JNI/JNA" width="65" height="65" />
-      <br>JNI / JNA
+      <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloud" width="65" height="65" />
+      <br>Cloud Services
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=websocket&theme=dark" alt="WebSocket" width="65" height="65" />
+      <br>WebSockets
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jwt&theme=dark" alt="JWT" width="65" height="65" />
+      <br>JWT
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Security" width="65" height="65" />
+      <br>Spring Security
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Batch" width="65" height="65" />
+      <br>Spring Batch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring WebFlux" width="65" height="65" />
+      <br>Spring WebFlux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Cache" width="65" height="65" />
+      <br>Spring Cache
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Cloud" width="65" height="65" />
+      <br>Spring Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Circuit Breaker" width="65" height="65" />
+      <br>Circuit Breaker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aop&theme=dark" alt="AOP" width="65" height="65" />
+      <br>AOP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opentracing&theme=dark" alt="OpenTracing" width="65" height="65" />
+      <br>OpenTracing
     </td>
   </tr>
 </table>
-
 ---
 
 ## GitHub Stats 📊
